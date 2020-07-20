@@ -1,0 +1,16 @@
+# Site settings
+title: Lose yan blog
+description: learning_python
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+
+# User settings
+username: yan
+user_description: 所有的起源都来自于一次伟大的尝试
+user_title: Software Engineer
+email: 731374839@qq.com
+# twitter_username: lorem_ipsum
+# github_username:  lorem_ipsum
+# gplus_username:  lorem_ipsum
+
+exclude: ['package.json', 'src' , 'node_modules']
